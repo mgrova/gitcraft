@@ -329,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2020-03-29 03:00:48 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2020-03-24 21:46:02 +0100"
@@ -563,6 +569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2020-03-29 03:40:11 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-03-26 21:18:54 +0100"
@@ -766,6 +778,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2020-03-29 01:57:44 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2020-03-22 18:05:20 +0100"
@@ -811,6 +829,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2020-03-22 21:11:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2020-03-29 03:02:09 +0200"
     },
     "done": true
   },
@@ -916,6 +940,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2020-03-29 03:00:48 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_log": "2020-03-22 18:01:32 +0100"
@@ -955,6 +985,18 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2020-03-23 22:03:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2020-03-29 03:40:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2020-03-29 03:00:48 +0200"
     },
     "done": true
   },
@@ -1157,6 +1199,7 @@
       "minecraft:desert": "2020-03-26 21:46:55 +0100",
       "minecraft:birch_forest": "2020-03-26 21:23:29 +0100",
       "minecraft:badlands": "2020-03-28 02:53:28 +0100",
+      "minecraft:savanna_plateau": "2020-03-29 03:52:12 +0200",
       "minecraft:beach": "2020-03-24 21:45:54 +0100",
       "minecraft:dark_forest": "2020-03-26 22:39:11 +0100",
       "minecraft:river": "2020-03-22 18:01:17 +0100",
@@ -1996,6 +2039,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2020-03-29 03:02:09 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2020-03-22 20:03:15 +0100"
@@ -2029,6 +2078,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2020-03-22 20:44:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2020-03-29 01:57:44 +0100"
     },
     "done": true
   },
@@ -2077,6 +2132,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2020-03-22 19:21:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2020-03-29 01:57:44 +0100"
     },
     "done": true
   },
@@ -2155,6 +2216,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2020-03-22 20:44:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2020-03-29 03:19:16 +0200"
     },
     "done": true
   },
@@ -2314,6 +2381,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2020-03-29 03:40:11 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2020-03-22 19:20:42 +0100"
@@ -2446,6 +2519,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2020-03-29 03:02:09 +0200"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2020-03-22 19:21:56 +0100"
@@ -2551,6 +2630,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2020-03-22 21:08:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2020-03-29 03:19:16 +0200"
     },
     "done": true
   },
