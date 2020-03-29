@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2020-03-29 01:29:02 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2020-03-26 21:54:42 +0100"
@@ -1263,11 +1269,13 @@
       "minecraft:desert": "2020-03-26 21:47:23 +0100",
       "minecraft:birch_forest": "2020-03-23 01:33:25 +0100",
       "minecraft:badlands": "2020-03-28 02:53:29 +0100",
+      "minecraft:savanna_plateau": "2020-03-29 03:40:59 +0200",
       "minecraft:beach": "2020-03-24 21:45:46 +0100",
       "minecraft:dark_forest": "2020-03-26 22:32:11 +0100",
       "minecraft:river": "2020-03-22 21:38:52 +0100",
       "minecraft:lukewarm_ocean": "2020-03-24 21:45:56 +0100",
       "minecraft:birch_forest_hills": "2020-03-23 01:33:18 +0100",
+      "minecraft:wooded_mountains": "2020-03-29 03:26:26 +0200",
       "minecraft:wooded_hills": "2020-03-26 21:27:59 +0100",
       "minecraft:giant_tree_taiga_hills": "2020-03-22 22:02:12 +0100",
       "minecraft:stone_shore": "2020-03-24 21:46:34 +0100",
@@ -1364,6 +1372,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-03-22 21:39:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2020-03-29 03:46:20 +0200"
     },
     "done": true
   },
@@ -2404,6 +2418,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_the_recipe": "2020-03-29 01:21:08 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2020-03-23 20:31:29 +0100"
@@ -2557,6 +2577,12 @@
   "minecraft:recipes/building_blocks/red_terracotta": {
     "criteria": {
       "has_terracotta": "2020-03-28 02:58:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2020-03-29 03:46:50 +0200"
     },
     "done": true
   },
