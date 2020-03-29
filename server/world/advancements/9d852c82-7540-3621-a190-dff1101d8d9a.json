@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:06b731dc0ed71b9e383f3898a86e447788d036f4d19ea807cbb4507540818f9c
-size 80058
-=======
 {
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
@@ -3103,4 +3098,3 @@ size 80058
   },
   "DataVersion": 2230
 }
->>>>>>> tmp
