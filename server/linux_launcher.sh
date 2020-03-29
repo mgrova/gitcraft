@@ -12,7 +12,7 @@ echo ----- Server will open now, pls at server shutdown close it first and then 
 echo ----- El servidor se va abrir a continuaciOn, porfa al ir a chapar cierra esa ventana antes y luego esta
 echo Pulsa enter para lanzar el servidor . . .
 echo Press enter to launch the server . . .
-read -n 1
+read -sn 1
 java -Xmx2048M -Xms2048M -jar server.jar
 git add .
 git commit -m "World decentralization at $(date)"
@@ -22,5 +22,5 @@ echo ----- FINISH
 echo ----- Reports bugs at github.com/MikeMakes
 echo Pulsa enter para terminar . . .
 echo Press enter to end . . .
-read -n 1
+read -sn 1
 
