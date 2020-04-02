@@ -1,95 +1,62 @@
-[01:07:38] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01:07:38] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:07:39] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:07:39] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01:07:39] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:07:39] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[01:07:39] [Server thread/INFO]: Loading properties
-[01:07:39] [Server thread/INFO]: Default game type: SURVIVAL
-[01:07:39] [Server thread/INFO]: Generating keypair
-[01:07:40] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:07:40] [Server thread/INFO]: Using epoll channel type
-[01:07:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:07:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:07:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:07:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:07:40] [Server thread/INFO]: Preparing level "world"
-[01:07:40] [Server thread/INFO]: Reloading ResourceManager: Default
-[01:07:45] [Server thread/INFO]: Loaded 6 recipes
-[01:07:45] [Server thread/INFO]: Loaded 825 advancements
-[01:07:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:07:46] [Server thread/INFO]: Preparing spawn area: 0%
-[01:07:46] [Server thread/INFO]: Preparing spawn area: 0%
-[01:07:46] [Server thread/INFO]: Preparing spawn area: 66%
-[01:07:46] [Server thread/INFO]: Time elapsed: 1080 ms
-[01:07:46] [Server thread/INFO]: Done (5.991s)! For help, type "help"
-[01:07:46] [Server thread/INFO]: lotape6[/85.59.80.146:55888] logged in with entity id 77 at (-2243.7261628618526, 71.0, -242.359498053611)
-[01:07:46] [Server thread/INFO]: lotape6 joined the game
-[01:07:46] [Server thread/INFO]: Unknown command
-[01:07:46] [Server thread/INFO]: <--[HERE]
-[01:08:01] [Server thread/INFO]: MikeMakes[/185.224.79.32:56796] logged in with entity id 401 at (82.11727348086028, 72.5, 106.5756060963031)
-[01:08:01] [Server thread/INFO]: MikeMakes joined the game
-[01:09:52] [Server thread/INFO]: mgrova[/85.59.80.146:40088] logged in with entity id 881 at (88.00692923059596, 78.0, 89.74889551964327)
-[01:09:52] [Server thread/INFO]: mgrova joined the game
-[01:17:58] [Server thread/WARN]: lotape6 moved wrongly!
-[01:17:58] [Server thread/WARN]: MikeMakes moved wrongly!
-[01:23:37] [Server thread/INFO]: lotape6 lost connection: Disconnected
-[01:23:37] [Server thread/INFO]: lotape6 left the game
-[01:23:39] [Server thread/INFO]: lotape6[/85.59.80.146:55920] logged in with entity id 6471 at (-38.698242187499964, 69.8500000178814, -12.301757812499986)
-[01:23:39] [Server thread/INFO]: lotape6 joined the game
-[01:26:29] [Server thread/WARN]: Horse moved wrongly!
-[01:26:29] [Server thread/WARN]: Horse moved wrongly!
-[01:37:26] [Server thread/INFO]: <mgrova> wwww
-[01:52:53] [Server thread/WARN]: Horse moved wrongly!
-[01:52:53] [Server thread/WARN]: Horse moved wrongly!
-[03:00:32] [Server thread/WARN]: Horse moved wrongly!
-[03:04:12] [Server thread/WARN]: Horse moved wrongly!
-[03:07:09] [Server thread/WARN]: Horse moved wrongly!
-[03:08:07] [Server thread/INFO]: lotape6 lost connection: Disconnected
-[03:08:07] [Server thread/INFO]: lotape6 left the game
-[03:08:17] [Server thread/INFO]: mgrova lost connection: Disconnected
-[03:08:17] [Server thread/INFO]: mgrova left the game
-[03:08:35] [Server thread/INFO]: lotape6[/85.59.80.146:55980] logged in with entity id 13070 at (187.30742086642982, 76.8500000178814, 74.92254221939012)
-[03:08:35] [Server thread/INFO]: lotape6 joined the game
-[03:08:35] [Server thread/INFO]: mgrova[/85.59.80.146:40118] logged in with entity id 13075 at (214.62293709366566, 70.0, 151.06470958983573)
-[03:08:35] [Server thread/INFO]: mgrova joined the game
-[03:09:20] [Server thread/INFO]: <MikeMakes> 194 63
-[03:11:01] [Server thread/INFO]: <MikeMakes> 186 82
-[03:12:36] [Server thread/INFO]: <MikeMakes> 300 80
-[03:14:04] [Server thread/WARN]: lotape6 moved wrongly!
-[03:18:44] [Server thread/WARN]: Horse moved wrongly!
-[03:19:28] [Server thread/WARN]: lotape6 moved wrongly!
-[03:23:10] [Server thread/WARN]: Horse moved wrongly!
-[03:27:49] [Server thread/WARN]: Horse (vehicle of lotape6) moved too quickly! 3.7596072041952766,-1.0,9.457824563944087
-[03:27:49] [Server thread/WARN]: Horse (vehicle of lotape6) moved too quickly! 3.817170641035318,-1.0,9.855003418945671
-[03:27:49] [Server thread/WARN]: Horse (vehicle of lotape6) moved too quickly! 3.8818328138304423,-1.0,10.262669137659032
-[03:27:49] [Server thread/WARN]: Horse (vehicle of lotape6) moved too quickly! 3.9502933787017582,-1.0768320014953616,10.675946168059113
-[03:27:49] [Server thread/WARN]: Horse (vehicle of lotape6) moved too quickly! 3.990311374488897,-1.2274534586630068,10.916596790040899
-[03:27:49] [Server thread/WARN]: Horse (vehicle of lotape6) moved too quickly! 4.029385536641257,-1.4489423104376016,11.150723343778964
-[03:27:49] [Server thread/WARN]: Horse (vehicle of lotape6) moved too quickly! 4.067565589487913,-1.7384922093173572,11.379040757368216
-[03:27:49] [Server thread/WARN]: Horse (vehicle of lotape6) moved too quickly! 4.104744070146921,-2.0,11.602211370334544
-[03:27:49] [Server thread/WARN]: Horse (vehicle of lotape6) moved too quickly! 4.169194926221053,-2.0,11.99680630891271
-[03:27:49] [Server thread/WARN]: Horse (vehicle of lotape6) moved too quickly! 4.234976380361786,-2.0,12.403517573370436
-[03:27:49] [Server thread/WARN]: Horse (vehicle of lotape6) moved too quickly! 4.301469810998697,-2.0,12.816712042232894
-[03:37:31] [Server thread/INFO]: <MikeMakes> 1300 -1300
-[03:43:00] [Server thread/WARN]: lotape6 moved wrongly!
-[03:43:09] [Server thread/INFO]: <MikeMakes> 1300 -1800
-[04:08:21] [Server thread/INFO]: <MikeMakes> portal 1110 -1670
-[04:10:44] [Server thread/INFO]: lotape6 lost connection: Disconnected
-[04:10:44] [Server thread/INFO]: lotape6 left the game
-[04:10:52] [Server thread/INFO]: MikeMakes lost connection: Disconnected
-[04:10:52] [Server thread/INFO]: MikeMakes left the game
-[04:11:42] [Server thread/INFO]: mgrova lost connection: Disconnected
-[04:11:42] [Server thread/INFO]: mgrova left the game
-[04:12:37] [Server thread/INFO]: Stopping server
-[04:12:37] [Server thread/INFO]: Saving players
-[04:12:37] [Server thread/INFO]: Saving worlds
-[04:12:37] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[04:12:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:12:37] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[04:12:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:12:37] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[04:12:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:12:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:12:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:12:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:04:31] [Server thread/INFO]: lotape6 lost connection: Disconnected
+[00:04:31] [Server thread/INFO]: lotape6 left the game
+[00:25:11] [Server thread/INFO]: mgrova has made the advancement [The Parrots and the Bats]
+[00:31:44] [Server thread/INFO]: mgrova lost connection: Disconnected
+[00:31:44] [Server thread/INFO]: mgrova left the game
+[00:31:54] [Server thread/INFO]: mgrova[/85.59.80.146:39012] logged in with entity id 25141 at (86.85624518060052, 72.0, 102.55794811916158)
+[00:31:54] [Server thread/INFO]: mgrova joined the game
+[00:49:09] [Server thread/INFO]: <MikeMakes> tengo 1
+[00:49:28] [Server thread/INFO]: <MikeMakes> 1130 -1100
+[00:50:40] [Server thread/INFO]: <MikeMakes> matalo
+[00:50:44] [Server thread/INFO]: <MikeMakes> que se hace de dia
+[00:51:01] [Server thread/INFO]: <mgrova> SORRY
+[00:51:04] [Server thread/INFO]: <mgrova> el chat me paro
+[00:51:06] [Server thread/INFO]: <mgrova> xd
+[00:51:26] [Server thread/INFO]: <MikeMakes> nice
+[00:51:40] [Server thread/INFO]: <MikeMakes> ves la barrita que hay debajo de tu mira cuando atacas?
+[00:51:50] [Server thread/INFO]: <MikeMakes> si esperas a que se llene haces mas daño
+[00:52:06] [Server thread/INFO]: <mgrova> vale perfe
+[00:52:13] [Server thread/INFO]: <MikeMakes> pa casita?
+[00:52:20] [Server thread/INFO]: <MikeMakes> me voys a la cama en brevas
+[00:52:24] [Server thread/INFO]: <mgrova> po ci
+[00:52:27] [Server thread/INFO]: <MikeMakes> y no me queda comida jahah
+[00:52:32] [Server thread/INFO]: <mgrova> pera
+[00:53:03] [Server thread/INFO]: <mgrova> cuantos tienes?
+[00:53:13] [Server thread/INFO]: <MikeMakes> suficientes pa volver
+[00:56:04] [Server thread/INFO]: <mgrova> toy tieso
+[00:56:06] [Server thread/INFO]: <mgrova> de comida
+[00:56:08] [Server thread/INFO]: <mgrova> ajaja
+[00:56:11] [Server thread/INFO]: <MikeMakes> me 2 ahahahah
+[00:56:19] [Server thread/INFO]: <MikeMakes> suficiente era 0
+[00:59:04] [Server thread/INFO]: <MikeMakes> cuantas perlas tenemos?
+[00:59:08] [Server thread/INFO]: <mgrova> 11
+[00:59:19] [Server thread/INFO]: <MikeMakes> not bad
+[00:59:27] [Server thread/INFO]: <MikeMakes> pa encontrar el portal nos da
+[00:59:36] [Server thread/INFO]: <MikeMakes> y quizas pa abrirlo tb
+[00:59:39] [Server thread/INFO]: <mgrova> podriamos ir otra vez mas
+[00:59:46] [Server thread/INFO]: <mgrova> al deiserto
+[01:00:13] [Server thread/INFO]: <MikeMakes> yo me voy a ir a la cama en vd
+[01:00:18] [Server thread/INFO]: <mgrova> sii yo tb
+[01:00:29] [Server thread/INFO]: <mgrova> digo en otro momento jajja
+[01:00:30] [Server thread/INFO]: <MikeMakes> que tengo sueño y es mi oportunidad de arreglarme el horario xD
+[01:00:37] [Server thread/INFO]: <MikeMakes> ez
+[01:00:44] [Server thread/INFO]: <mgrova> ea
+[01:00:45] [Server thread/INFO]: <MikeMakes> oki hablamos mañana
+[01:00:46] [Server thread/INFO]: <mgrova> bonna nit
+[01:00:48] [Server thread/INFO]: <MikeMakes> chaaaaaaaaaaaaao
+[01:00:51] [Server thread/INFO]: MikeMakes lost connection: Disconnected
+[01:00:51] [Server thread/INFO]: MikeMakes left the game
+[01:03:16] [Server thread/INFO]: mgrova lost connection: Disconnected
+[01:03:16] [Server thread/INFO]: mgrova left the game
+[01:04:12] [Server thread/INFO]: Stopping server
+[01:04:12] [Server thread/INFO]: Saving players
+[01:04:12] [Server thread/INFO]: Saving worlds
+[01:04:12] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[01:04:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:04:12] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[01:04:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:04:12] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[01:04:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:04:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:04:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:04:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
